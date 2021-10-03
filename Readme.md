@@ -2,7 +2,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXinyiZ001%2FLA-HCN&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-The official Tensorflow implementation of LA-HCN: Label-based Attention for HierarchicalMulti-label Text Classification Neural Network. [LA-HCN](https://arxiv.org/abs/2009.10938).
+The official Tensorflow implementation of LA-HCN: Label-based Attention for HierarchicalMulti-label Text Classification Neural Network. [LA-HCN](https://www.sciencedirect.com/science/article/abs/pii/S0957417421012768).
 
 The implementation of data preparsion part refers to the [CODE](https://github.com/RandolphVI/Hierarchical-Multi-Label-Text-Classification).
 *** 
